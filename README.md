@@ -18,7 +18,7 @@ Sqlite3 Backend
 ![Image 3)](https://user-images.githubusercontent.com/74148907/235347490-6c8d3d59-177a-496f-954a-df5f92615dee.png)
 
 ## Home Page
-![Image 4](https://user-images.githubusercontent.com/74148907/235348210-30129eaf-ccde-4859-ac39-eb4953a08980.png>)
+![Image 4](https://user-images.githubusercontent.com/74148907/235348796-dcb35912-4a76-45bb-81cc-ba0df9a1595d.png)
 
 ## Home Page
 ![Image 5](https://user-images.githubusercontent.com/74148907/235347584-ba969aed-ddcb-49bd-bd7b-b522e3f4e871.png)
@@ -27,4 +27,4 @@ Sqlite3 Backend
 ![Image 6](https://user-images.githubusercntent.com/74148907/235347604-3eb9118e-e2b1-4ebc-a836-449e6c68eb14.png)
 
 ## Notification Updates
-![Image 7](https://user-images.githubusercontent.com/74148907/235348402-252030db-a312-4e51-8fe9-adebab50841d.png)
+![Image 7](https://user-images.githubusercontent.com/74148907/235348851-68954a22-a87f-419b-afa6-3c7131913388.png)
