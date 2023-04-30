@@ -24,7 +24,7 @@ Sqlite3 Backend
 ![Image 5](https://user-images.githubusercontent.com/74148907/235347584-ba969aed-ddcb-49bd-bd7b-b522e3f4e871.png)
 
 ## Profile Section
-![Image 6](https://user-images.githubusercntent.com/74148907/235347604-3eb9118e-e2b1-4ebc-a836-449e6c68eb14.png)
+![Image 6](https://user-images.githubusercontent.com/74148907/235349036-70628f90-4c7f-47ae-aca0-4e8a9665f01b.png)
 
 ## Notification Updates
 ![Image 7](https://user-images.githubusercontent.com/74148907/235348851-68954a22-a87f-419b-afa6-3c7131913388.png)
